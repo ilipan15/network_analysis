@@ -6,7 +6,7 @@ The compound of technologies we use to call 'AI' promises to revolutionize many 
 
 ## Dataset
 
-In order to get a better understanding of traders' attitudes toward AI, a survey was circulated in a large trading floor located in Canary Wharf. The resulting dataset  contains 192 responses regarding:
+In order to get a better understanding of traders' attitudes toward AI, a survey was circulated in a large trading floor located in Canary Wharf. The resulting [dataset](https://github.com/ilipan15/network_analysis/blob/main/trading_floor.xml)  contains 192 responses regarding:
 
 * the undirected network of knowledge exchange between traders (traders A and B are connected when A says he/she shares technical and industry knowledge with B and vice versa)
 * a trader's opinion about the contribution of AI to his/her productivity and effectiveness in evaluating securities (1 = not at all; 10 = to a great extent). In the datasets, this variable is reported as the node attribute ai.
